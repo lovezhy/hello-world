@@ -1,2 +1,4 @@
 # hello-world
-just one repository
+只是一个存储库
+创造的神秘，有如夜间的黑暗---是伟大的。而知识的幻影却不过如晨间之雾。
+
